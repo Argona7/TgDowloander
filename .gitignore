@@ -12,6 +12,7 @@ build/
 .DS_Store
 
 # Секреты и артефакты
+
 .env
 .env.local
 *.session
@@ -19,3 +20,4 @@ build/
 logs/
 *.log
 dump/
+.idea/

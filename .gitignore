@@ -1,0 +1,21 @@
+# venv / кэш / IDE
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.dist/
+build/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Секреты и артефакты
+.env
+.env.local
+*.session
+*.session-journal
+logs/
+*.log
+dump/
